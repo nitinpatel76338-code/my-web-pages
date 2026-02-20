@@ -1,0 +1,34 @@
+ h1{
+                    text-align: center;
+                    color: rgb(44, 162, 222);
+                    background-color: black;
+                }
+                h2{
+                    color: red;
+                    text-align: center;  
+                }
+                address{
+                    font-size: xx-large;
+                }
+                body{
+                    background-color: lightblue;
+                }
+                div{
+                    border-radius: 15px;
+                }
+                P{
+                    text-align: center;
+                    color:green;
+                    font-size: x-large;
+                }
+                #tt{
+                    background-color: cornsilk;
+                    text-align: center;
+                    font-size: x-large;
+                    color: tomato;
+                }
+                .body{
+                    background-color: thistle;
+                    text-decoration: double;
+                }
+                
